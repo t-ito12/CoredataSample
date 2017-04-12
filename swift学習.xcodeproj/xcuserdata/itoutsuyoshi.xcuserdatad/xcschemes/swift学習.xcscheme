@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0830"
+   LastUpgradeVersion = "0820"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DCF5B7BF1E9A4DC200172E46"
-               BuildableName = "CoredataSample.app"
-               BlueprintName = "CoredataSample"
-               ReferencedContainer = "container:CoredataSample.xcodeproj">
+               BlueprintIdentifier = "DCF508331E967E0500A6D5B4"
+               BuildableName = "swift&#x5b66;&#x7fd2;.app"
+               BlueprintName = "swift&#x5b66;&#x7fd2;"
+               ReferencedContainer = "container:swift&#x5b66;&#x7fd2;.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DCF5B7BF1E9A4DC200172E46"
-            BuildableName = "CoredataSample.app"
-            BlueprintName = "CoredataSample"
-            ReferencedContainer = "container:CoredataSample.xcodeproj">
+            BlueprintIdentifier = "DCF508331E967E0500A6D5B4"
+            BuildableName = "swift&#x5b66;&#x7fd2;.app"
+            BlueprintName = "swift&#x5b66;&#x7fd2;"
+            ReferencedContainer = "container:swift&#x5b66;&#x7fd2;.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DCF5B7BF1E9A4DC200172E46"
-            BuildableName = "CoredataSample.app"
-            BlueprintName = "CoredataSample"
-            ReferencedContainer = "container:CoredataSample.xcodeproj">
+            BlueprintIdentifier = "DCF508331E967E0500A6D5B4"
+            BuildableName = "swift&#x5b66;&#x7fd2;.app"
+            BlueprintName = "swift&#x5b66;&#x7fd2;"
+            ReferencedContainer = "container:swift&#x5b66;&#x7fd2;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DCF5B7BF1E9A4DC200172E46"
-            BuildableName = "CoredataSample.app"
-            BlueprintName = "CoredataSample"
-            ReferencedContainer = "container:CoredataSample.xcodeproj">
+            BlueprintIdentifier = "DCF508331E967E0500A6D5B4"
+            BuildableName = "swift&#x5b66;&#x7fd2;.app"
+            BlueprintName = "swift&#x5b66;&#x7fd2;"
+            ReferencedContainer = "container:swift&#x5b66;&#x7fd2;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
